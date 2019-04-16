@@ -16,3 +16,8 @@ Homework
 
 # Day 2
 [Day_002_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_002_HW.ipynb)
+
+# Day 3
+[Day_003-1_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_003-1_HW.ipynb)
+
+[Day_003-2_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_003-2_HW.ipynb)
