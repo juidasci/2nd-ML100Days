@@ -27,3 +27,6 @@ Homework
 
 # Day 5
 [Day_005_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_005_HW.ipynb)
+
+# Day 6
+[Day_006_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_006_HW.ipynb)
