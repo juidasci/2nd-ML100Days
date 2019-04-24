@@ -30,3 +30,6 @@ Homework
 
 # Day 6
 [Day_006_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_006_HW.ipynb)
+
+# Day 7
+[Day_007_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_007_HW.ipynb)
