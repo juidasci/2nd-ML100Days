@@ -33,3 +33,6 @@ Homework
 
 # Day 7
 [Day_007_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_007_HW.ipynb)
+
+# Day 8
+[Day_008_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_008_HW.ipynb)
