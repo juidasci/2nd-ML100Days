@@ -48,3 +48,6 @@ Homework
 
 # Day 12
 [Day_012_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_012_HW.ipynb)
+
+# Day 13
+[Day_013_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_013_HW.ipynb)
