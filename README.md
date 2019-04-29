@@ -39,3 +39,6 @@ Homework
 
 # Day 9
 [Day_009_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_009_HW.ipynb)
+
+# Day 10
+[Day_010_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_010_HW.ipynb)
