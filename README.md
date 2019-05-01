@@ -51,3 +51,6 @@ Homework
 
 # Day 13
 [Day_013_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_013_HW.ipynb)
+
+# Day 14
+[Day_014_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_014_HW.ipynb)
