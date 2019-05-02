@@ -1,14 +1,9 @@
 # 2nd-ML1000Days
 
-機器學習馬拉松～
+機器學習馬拉松 ～ Homework
 
 
 </br>
-</br>	
-
-
-Homework
-
 </br>	
 
 # Day 1
