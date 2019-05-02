@@ -52,3 +52,6 @@
 
 # Day 15
 [Day_015_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_015_HW.ipynb)
+
+# Day 16
+[Day_016_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_016_HW.png)
