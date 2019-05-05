@@ -61,4 +61,4 @@
 # 2. 資料科學特徵工程技術
 
 ## Day 17
-[Day_017_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_017_HW.png)
+[Day_017_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_017_HW.ipynb)
