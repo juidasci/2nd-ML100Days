@@ -62,3 +62,6 @@
 
 ## Day 17
 [Day_017_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_017_HW.ipynb)
+
+## Day 18
+[Day_018_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_018_HW.ipynb)
