@@ -74,3 +74,6 @@
 
 ## Day 21
 [Day_021_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_021_HW.ipynb)
+
+## Day 22
+[Day_022_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_022_HW.ipynb)
