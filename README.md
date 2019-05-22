@@ -109,3 +109,12 @@
 
 ## Day 32
 [Day_032_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_032_HW.ipynb)
+
+## Day 33
+[Day_033_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_033_HW.ipynb)
+
+## Day 34
+[Day_034_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_034_HW.ipynb)
+
+## Day 35
+[Day_035_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_035_HW.ipynb)
