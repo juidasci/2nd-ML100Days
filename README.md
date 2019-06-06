@@ -139,3 +139,18 @@
 
 ## Day 42
 [Day_042_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_042_HW.ipynb)
+
+## Day 43
+[Day_043_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_043_HW.ipynb)
+
+## Day 44
+[Day_044_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_044_HW.ipynb)
+
+## Day 45
+[Day_042_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_045_HW.ipynb)
+
+## Day 46
+[Day_046_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_046_HW.ipynb)
+
+## Day 47
+[Day_047_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_047_HW.ipynb)
