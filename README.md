@@ -158,3 +158,6 @@
 
 ## Day 48
 [Day_048_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_048_HW.png)
+
+## Day 49
+[Day_049_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_049_HW.png)
