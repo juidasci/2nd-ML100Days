@@ -161,3 +161,6 @@
 
 ## Day 49
 [Day_049_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_049_HW.png)
+
+## Day 50
+[Day_050_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_050_HW.png)
