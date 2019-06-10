@@ -151,5 +151,10 @@
 ## Day 46
 [Day_046_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_046_HW.ipynb)
 
+# 4. 機器學習調整參數
+
 ## Day 47
 [Day_047_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_047_HW.ipynb)
+
+## Day 48
+[Day_048_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_048_HW.png)
