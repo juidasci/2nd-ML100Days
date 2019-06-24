@@ -169,3 +169,18 @@
 # 5. 非監督式機器學習
 ## Day 54
 [Day_054_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_054_HW.ipynb)
+
+## Day 55
+[Day_055_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_055_HW.ipynb)
+
+## Day 56
+[Day_056_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_056_HW.ipynb)
+
+## Day 57
+[Day_057_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_057_HW.ipynb)
+
+## Day 58
+[Day_058_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_058_HW.ipynb)
+
+## Day 59
+[Day_059_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_059_HW.ipynb)
