@@ -168,4 +168,4 @@
 
 # 5. 非監督式機器學習
 ## Day 54
-[Day_054_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_054_HW.png)
+[Day_054_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_054_HW.ipynb)
