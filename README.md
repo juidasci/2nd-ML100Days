@@ -174,7 +174,7 @@
 [Day_055_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_055_HW.ipynb)
 
 ## Day 56
-[Day_056_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_056_HW.ipynb)
+[Day_056_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_056_kmean_HW.ipynb)
 
 ## Day 57
 [Day_057_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_057_HW.ipynb)
