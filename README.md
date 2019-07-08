@@ -184,3 +184,6 @@
 
 ## Day 59
 [Day_059_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_059_HW.ipynb)
+
+## Day 60
+[Day_060_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_060_PCA_HW.ipynb)
