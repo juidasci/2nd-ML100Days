@@ -190,3 +190,6 @@
 
 ## Day 61
 [Day_061_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_061_HW.ipynb)
+
+## Day 62
+[Day_062_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_062_tsne_HW.ipynb)
