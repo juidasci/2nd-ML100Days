@@ -193,3 +193,8 @@
 
 ## Day 62
 [Day_062_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_062_tsne_HW.ipynb)
+
+
+# 6. 深度學習理論與實作
+## Day 63
+[Day_063_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_063_HW.ipynb)
