@@ -198,3 +198,9 @@
 # 6. 深度學習理論與實作
 ## Day 63
 [Day_063_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_063_HW.ipynb)
+
+## Day 64
+[Day_064_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_064_HW.ipynb)
+
+## Day 65
+[Day_065_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_065_HW.ipynb)
