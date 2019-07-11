@@ -204,3 +204,32 @@
 
 ## Day 65
 [Day_065_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_065_HW.ipynb)
+
+
+# 7. 初探深度學習使用Keras
+## Day 66
+[Day_066_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_066_HW.ipynb)
+
+## Day 67
+[Day_067_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_067_HW.ipynb)
+
+## Day 68
+[Day_068_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_068_HW.ipynb)
+
+## Day 69
+[Day_069_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_069_HW.ipynb)
+
+## Day 70
+[Day_070_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_070_HW.ipynb)
+
+## Day 71
+[Day_071_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_071_HW.ipynb)
+
+## Day 72
+[Day_072_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_072_HW.ipynb)
+
+## Day 73
+[Day_073_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_073_HW.ipynb)
+
+## Day 74
+[Day_074_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_074_HW.ipynb)
