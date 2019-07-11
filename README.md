@@ -211,7 +211,7 @@
 [Day_066_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_066_HW.ipynb)
 
 ## Day 67
-[Day_067_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_067_HW.ipynb)
+[Day_067_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_067-Keras_Dataset_HW.ipynb)
 
 ## Day 68
 [Day_068_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_068_HW.ipynb)
