@@ -233,3 +233,6 @@
 
 ## Day 74
 [Day_074_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_074_HW.ipynb)
+
+## Day 75
+[Day_075_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_075_HW.ipynb)
