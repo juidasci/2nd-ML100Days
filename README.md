@@ -236,3 +236,9 @@
 
 ## Day 75
 [Day_075_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_075_HW.ipynb)
+
+## Day 76
+[Day_076_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_076_HW.ipynb)
+
+## Day 77
+[Day_077_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_077_HW.ipynb)
