@@ -251,3 +251,36 @@
 
 ## Day 80
 [Day_080_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_080_HW.ipynb)
+
+## Day 81
+[Day_081_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_081_HW.ipynb)
+
+## Day 82
+[Day_082_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_082_HW.ipynb)
+
+## Day 83
+[Day_083_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_083_HW.ipynb)
+
+## Day 84
+[Day_084_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_084_HW.ipynb)
+
+## Day 85
+[Day_085_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_085_HW.ipynb)
+
+## Day 86
+[Day_086_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_086_HW.ipynb)
+
+## Day 87
+[Day_087_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_087_HW.ipynb)
+
+## Day 88
+[Day_088_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_088_HW.ipynb)
+
+## Day 89
+[Day_089_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_089_HW.ipynb)
+
+## Day 90
+[Day_090_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_090_HW.ipynb)
+
+## Day 91
+[Day_091_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_091_HW.ipynb)
