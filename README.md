@@ -284,3 +284,32 @@
 
 ## Day 91
 [Day_091_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_091_HW.ipynb)
+
+
+# 8. 深度學習應用卷積神經網路
+## Day 92
+[Day_092_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_092_HW.ipynb)
+
+## Day 93
+[Day_093_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_093_HW.ipynb)
+
+## Day 94
+[Day_094_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_094_HW.ipynb)
+
+## Day 95
+[Day_095_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_095_HW.ipynb)
+
+## Day 96
+[Day_096_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_096_HW.ipynb)
+
+## Day 97
+[Day_097_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_097_HW.ipynb)
+
+## Day 98
+[Day_098_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_098_HW.ipynb)
+
+## Day 99
+[Day_099_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_099_HW.ipynb)
+
+## Day 100
+[Day_100_HW](https://github.com/juidasci/2nd-ML100Days/blob/master/homework/Day_100_HW.ipynb)
